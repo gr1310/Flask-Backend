@@ -1,0 +1,1 @@
+/fetch/attendance/<course_id>/<date>
